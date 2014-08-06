@@ -1,0 +1,32 @@
+{
+  "name": "getui",
+  "version": "0.0.1-unfinished",
+  "description": "The SDK for iGetui.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "js-base64": "~2.1.5",
+    "protobuf": "~0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/getui.git"
+  },
+  "keywords": [
+    "getui",
+    "push",
+    "mobile"
+  ],
+  "author": "XadillaX",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/XadillaX/getui/issues"
+  },
+  "homepage": "https://github.com/XadillaX/getui"
+}
